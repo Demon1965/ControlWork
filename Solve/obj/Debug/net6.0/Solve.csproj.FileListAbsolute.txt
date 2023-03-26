@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\VSCode\ControlWork\Solve\obj\Debug\net6.0\Solve.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\VSCode\ControlWork\Solve\obj\Debug\net6.0\Solve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\VSCode\ControlWork\Solve\obj\Debug\net6.0\Solve.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\VSCode\ControlWork\Solve\obj\Debug\net6.0\Solve.AssemblyInfo.cs
+C:\Users\admin\Desktop\VSCode\ControlWork\Solve\obj\Debug\net6.0\Solve.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\VSCode\ControlWork\Solve\bin\Debug\net6.0\Solve.exe
+C:\Users\admin\Desktop\VSCode\ControlWork\Solve\bin\Debug\net6.0\Solve.deps.json
+C:\Users\admin\Desktop\VSCode\ControlWork\Solve\bin\Debug\net6.0\Solve.runtimeconfig.json
+C:\Users\admin\Desktop\VSCode\ControlWork\Solve\bin\Debug\net6.0\Solve.dll
+C:\Users\admin\Desktop\VSCode\ControlWork\Solve\bin\Debug\net6.0\Solve.pdb
+C:\Users\admin\Desktop\VSCode\ControlWork\Solve\obj\Debug\net6.0\Solve.dll
+C:\Users\admin\Desktop\VSCode\ControlWork\Solve\obj\Debug\net6.0\refint\Solve.dll
+C:\Users\admin\Desktop\VSCode\ControlWork\Solve\obj\Debug\net6.0\Solve.pdb
+C:\Users\admin\Desktop\VSCode\ControlWork\Solve\obj\Debug\net6.0\Solve.genruntimeconfig.cache
+C:\Users\admin\Desktop\VSCode\ControlWork\Solve\obj\Debug\net6.0\ref\Solve.dll
